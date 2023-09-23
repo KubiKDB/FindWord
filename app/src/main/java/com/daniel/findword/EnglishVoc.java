@@ -4446,7 +4446,7 @@ public class EnglishVoc {
             "zoos\n" +
             "zulu\n" +
             "zuni";
-    private static final String five_letters = "\n" +
+    private static final String five_letters =
             "aaron\n" +
             "abaca\n" +
             "abaci\n" +
@@ -11896,7 +11896,7 @@ public class EnglishVoc {
             "zulus\n" +
             "zunis\n" +
             "zygia";
-    private static final String six_letters_p1 = "\n" +
+    private static final String six_letters_p1 =
             "abacus\n" +
             "abased\n" +
             "abaser\n" +

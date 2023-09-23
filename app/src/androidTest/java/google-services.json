@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1049089359692",
+    "project_id": "findword-9a7a7",
+    "storage_bucket": "findword-9a7a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049089359692:android:ec2c840cd8bcaebfe799e9",
+        "android_client_info": {
+          "package_name": "com.daniel.findword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049089359692-sg26np7ci3ovpthpp8vsnsfs6tlrpipa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpY2Rhu8vqtUC3K5ANUwS2LeY2Zhhi62w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049089359692-sg26np7ci3ovpthpp8vsnsfs6tlrpipa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
